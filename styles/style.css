@@ -9,3 +9,6 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.crd{
+    transform: scaleY(1.2);
+}
