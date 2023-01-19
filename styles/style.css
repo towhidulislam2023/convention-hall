@@ -1,3 +1,11 @@
-body{
-    background: red;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.background-img-1{
+    height: 100vh;
+    background: url(../images/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }

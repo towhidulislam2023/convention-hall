@@ -8298,7 +8298,7 @@ textarea.form-control-lg {
 }
 
 .fs-6 {
-  font-size: 1rem !important;
+  font-size:0.9375rem!important;
 }
 
 .fst-italic {
@@ -8406,12 +8406,12 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  color: #3F87F5 !important;
 }
 
 .text-secondary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
+  color: #231D4F!important;
 }
 
 .text-success {
